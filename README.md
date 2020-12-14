@@ -1,4 +1,4 @@
-# calculadora_imc
+# Calculadora de IMC
 
 Calculadora de IMC feita em Flutter.
 
